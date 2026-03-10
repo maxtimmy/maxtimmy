@@ -61,7 +61,7 @@ System design and architecture
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxtimmy&show_icons=true&theme=transparent)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxtimmy)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtimmy&layout=compact&theme=transparent">
