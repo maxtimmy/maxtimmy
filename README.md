@@ -56,4 +56,3 @@ System design and architecture
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/i4l00t)
 
-- Email: maxtimmy3101@gmail.com
