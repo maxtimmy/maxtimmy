@@ -53,5 +53,7 @@ System design and architecture
 
 ## Contacts
 
-Telegram: @i4l00t
+
+
+[Telegram:](https://t.me/i4l00t)
 Email: maxtimmy3101@gmail.com
