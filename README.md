@@ -53,5 +53,5 @@ System design and architecture
 
 ## Contacts
 
-Telegram: @your_username  
-Email: your_email@gmail.com
+Telegram: @i4l00t
+Email: maxtimmy3101@gmail.com
