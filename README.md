@@ -1,7 +1,7 @@
 <h1 align="center">Yaroslav</h1>
 
 <p align="center">
-QA Engineer • Automation • Performance Testing
+QA Engineer • Data Science / ML
 </p>
 
 <p align="center">
