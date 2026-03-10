@@ -63,9 +63,7 @@ System design and architecture
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxtimmy)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtimmy&layout=compact&theme=transparent">
-</p>
+![snake gif](https://github.com/maxtimmy/maxtimmy/blob/output/github-snake-dark.svg)
 
 ---
 
