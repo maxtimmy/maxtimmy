@@ -57,4 +57,4 @@ System design and architecture
 
 - [Telegram](https://t.me/i4l00t)
 
-Email: maxtimmy3101@gmail.com
+- Email: maxtimmy3101@gmail.com
